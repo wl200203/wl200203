@@ -63,7 +63,10 @@ Here are some ideas to get you started:
 
 
 
-![VisitorCount](https://profile-counter.glitch.me/wl200203/count.svg)
+
+
+<p>You are my <img src="https://profile-counter.glitch.me/wl200203/count.svg" alt="Visitor Count"> visitor, Have a nice day! 😄</p>
+
 
 
 
