@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌞 Hi， I'm Wangcurry83
+- ⭐️ shan dian  Passionate about programming and eager to create personalized software of my own.
+- 🏃 Travel around the world. Discover the world, and discover myself.
 - 💜 "One day in the future, I will be running a bookstore of my own."
 
 
@@ -28,12 +30,16 @@ Here are some ideas to get you started:
 </picture>
 
 
+
+
 <details>
   <summary>## 💻 My Skill Set </summary>
   
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 
 </details>
+
+
 
 
 <details>
@@ -47,7 +53,6 @@ Here are some ideas to get you started:
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
 
-
 </details>
 
 
@@ -60,6 +65,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangcurry33@gmail.com)
 
 </details>
+
 
 
 
