@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌞 Hi， I'm Wangcurry83
-- ⭐️ shan dian  Passionate about programming and eager to create personalized software of my own.
+- ⭐️ Passionate about programming and eager to create personalized software of my own.
 - 🏃 Travel around the world. Discover the world, and discover myself.
 - 💜 "One day in the future, I will be running a bookstore of my own."
 
