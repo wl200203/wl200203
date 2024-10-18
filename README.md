@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wangcurry33@gmail.com)
 
 
+![VisitorCount](https://profile-counter.glitch.me/wl200203/count.svg)
+
 
 
 
