@@ -81,6 +81,24 @@ Here are some ideas to get you started:
 
 
 
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=yumuing&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=&theme=shadow_blue&bg_color=00000000" heigth="210px"/>
+<img align="center" src="https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/15-23-06-837_512_compress-1.gif" width="250px"/>
+<h3 align='center'>💻 𝕊𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤 💻</h3>
+<br/>
+<div align="center">
+<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
+</div>
+<!-- https://github.com/tandpfun/skill-icons -->
+</p>
+
+
+
 
 
 
