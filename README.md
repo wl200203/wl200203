@@ -89,13 +89,7 @@ Here are some ideas to get you started:
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=&theme=shadow_blue&bg_color=00000000" heigth="210px"/>
 <img align="center" src="https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/15-23-06-837_512_compress-1.gif" width="250px"/>
-<h3 align='center'>💻 𝕊𝕜𝕚𝕝𝕝𝕤 𝕒𝕟𝕕 ℂ𝕠𝕟𝕥𝕒𝕔𝕥𝕤 💻</h3>
-<br/>
-<div align="center">
-<img align="center" src="https://skillicons.dev/icons?i=py,pytorch,java,spring,vue,js,ts,c,cpp,linux,matlab&theme=light"/>
-</div>
-<!-- https://github.com/tandpfun/skill-icons -->
-</p>
+
 
 
 
