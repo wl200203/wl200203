@@ -88,7 +88,6 @@ Here are some ideas to get you started:
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=yumuing&layout=compact&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
 <br/>
 <img align="center" src="https://stats.justsong.cn/api/csdn?id=yumuing&cn=true&theme=&theme=shadow_blue&bg_color=00000000" heigth="210px"/>
-<img align="center" src="https://cdn.jsdelivr.net/gh/yumuing/yumuing@main/assets/15-23-06-837_512_compress-1.gif" width="250px"/>
 
 
 
