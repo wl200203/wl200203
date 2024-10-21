@@ -2,6 +2,23 @@
 ![](images/020306.png)
 
 
+
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=header&text=Hi%20there!&fontSize=70&fontAlign=50&fontAlignY=30&desc=Hi,%20I%20am%20Xudong!&descAlign=50&descSize=20&descAlignY=60&animation=fadeIn" />
+</p>
+
+
+
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
+
+
+
+
 <!--
 **wl200203/wl200203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,14 +37,6 @@ Here are some ideas to get you started:
 - 🏃 Travel around the world. Discover the world, and discover myself.
 - 💜 "One day in the future, I will be running a bookstore of my own."
 - ⭐️ Passionate about programming and eager to create personalized software of my own.
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Yumuing!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
-</p>
 
 
 
