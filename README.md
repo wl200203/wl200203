@@ -82,9 +82,9 @@ Here are some ideas to get you started:
 
 
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 <p>You are my <img src="https://profile-counter.glitch.me/wl200203/count.svg" alt="Visitor Count"> visitor, Have a nice day! 😄</p>
 
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 
 
