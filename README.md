@@ -28,9 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💜 "One day in the future, I will be running a bookstore of my own."
-- 🏃 Travel around the world. Discover the world, and discover myself.
-- ⭐️ Passionate about programming and eager to create personalized software of my own.
 
 
 
